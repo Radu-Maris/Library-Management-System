@@ -1,0 +1,14 @@
+
+La apasarea tastei 0, este oferit acces la inventarul bibliotecii prin introducerea numelelui de utilizator si a parolei
+
+La apasarea tastei 1, se creaza un nou cont de utilizator
+
+La apasarea tastei 2, se schimba parola unui utilizator specific. Pentru ca actiunea sa fie cu succes, utilizatorul trebuie sa intoduca numele si parola pe care doreste sa o schimba, iar mai apoi noua parola.
+
+La apasarea tastei 3, este afisat pe ecran un ajutorul, menit sa lamureasca si sa faciliteze folosirea aplicatiei.
+
+La apasarea tastei 4, aplicatia se va inchide
+
+
+
+Dezvoltatorul aplicatiei: Maris Radu-Ioan
